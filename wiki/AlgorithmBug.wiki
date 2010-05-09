@@ -1,0 +1,13 @@
+The algorithm presented in the paper "A new implementation of Yen’s ranking loopless paths algorithm", is not correct in all graphs. 
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
